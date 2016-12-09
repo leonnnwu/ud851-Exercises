@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
         //  (5) Store an address in a String
         String address = "2632 marine way, Mountain View CA 94043";
 
-        Uri location = Uri.parse("geo:0,0?q=" + address);
+        Uri location = new Uri.Builder().scheme("geo").path("0,0").query(address).build();
 
         //  (6) Use Uri.parse with the appropriate scheme and query to form the Uri for the address
 
