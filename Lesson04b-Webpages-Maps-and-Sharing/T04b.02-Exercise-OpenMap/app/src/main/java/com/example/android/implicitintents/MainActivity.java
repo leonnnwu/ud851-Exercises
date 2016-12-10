@@ -114,6 +114,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+<<<<<<< HEAD
     private void showMap(Uri mapUri) {
         Intent intent = new Intent(Intent.ACTION_VIEW, mapUri);
         if(intent.resolveActivity(getPackageManager()) != null) {
@@ -121,11 +122,21 @@ public class MainActivity extends AppCompatActivity {
         }
 
     //  (1) Create a method called showMap with a Uri as the single parameter
+=======
+
+    // TODO (1) Create a method called showMap with a Uri as the single parameter
+>>>>>>> udacity/student
     // Do steps 2 - 4 within the showMap method
         //  (2) Create an Intent with action type, Intent.ACTION_VIEW
 
         //  (3) Set the data of the Intent to the Uri passed into this method
 
+<<<<<<< HEAD
         //  (4) Verify that this Intent can be launched and then call startActivity
     }
+=======
+        // TODO (4) Verify that this Intent can be launched and then call startActivity
+
+
+>>>>>>> udacity/student
 }
