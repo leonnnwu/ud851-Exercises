@@ -1,0 +1,7 @@
+#Wed Dec 07 15:15:21 PST 2016
+base.0=/Users/lwu/Github/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.02-Exercise-AddMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4f0da95364658bf8fcbfd64a10fa0b0637830ec4
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/lwu/Github/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.02-Exercise-AddMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_db42f5a501a9c034104180b1769936a56937bf0e/classes.dex
+base.1=/Users/lwu/Github/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.02-Exercise-AddMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_db42f5a501a9c034104180b1769936a56937bf0e
+file.0=/Users/lwu/Github/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.02-Exercise-AddMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4f0da95364658bf8fcbfd64a10fa0b0637830ec4/classes.dex
