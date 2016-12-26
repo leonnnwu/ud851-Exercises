@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText mSearchBoxEditText;
 
     private TextView mUrlDisplayTextView;
+
     private TextView mSearchResultsTextView;
 
     private static final String TAG = MainActivity.class.getName();
